@@ -1,0 +1,4 @@
+/snap/clion/103/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/cmake-build-default

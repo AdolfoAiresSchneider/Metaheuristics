@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Point.h
+cmath
+-
+
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Ga/Ga.h
+../Tsp.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Tsp.h
+../Solution/Solution.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Solution/Solution.h
+
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Solution/Solution.h
+vector
+-
+../Tsp.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Tsp.h
+
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Tests/GaTest.cpp
+iostream
+-
+../Tsp.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Tsp.h
+../Solution/Solution.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Solution/Solution.h
+../Ga/Ga.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Ga/Ga.h
+
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Tsp/Tsp.h
+../Point.h
+/home/adolfoschneider/Dropbox/IC20192020/IC_ADOLFO/Codigos/Metaheuristics/Routing/Point.h
+vector
+-
+istream
+-
+

@@ -123,6 +123,222 @@ Metaheuristics/fast:
 	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/build
 .PHONY : Metaheuristics/fast
 
+Routing/Tsp/Ga/Ga.o: Routing/Tsp/Ga/Ga.cpp.o
+
+.PHONY : Routing/Tsp/Ga/Ga.o
+
+# target to build an object file
+Routing/Tsp/Ga/Ga.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ga/Ga.cpp.o
+.PHONY : Routing/Tsp/Ga/Ga.cpp.o
+
+Routing/Tsp/Ga/Ga.i: Routing/Tsp/Ga/Ga.cpp.i
+
+.PHONY : Routing/Tsp/Ga/Ga.i
+
+# target to preprocess a source file
+Routing/Tsp/Ga/Ga.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ga/Ga.cpp.i
+.PHONY : Routing/Tsp/Ga/Ga.cpp.i
+
+Routing/Tsp/Ga/Ga.s: Routing/Tsp/Ga/Ga.cpp.s
+
+.PHONY : Routing/Tsp/Ga/Ga.s
+
+# target to generate assembly for a file
+Routing/Tsp/Ga/Ga.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ga/Ga.cpp.s
+.PHONY : Routing/Tsp/Ga/Ga.cpp.s
+
+Routing/Tsp/GaTs/GaTs.o: Routing/Tsp/GaTs/GaTs.cpp.o
+
+.PHONY : Routing/Tsp/GaTs/GaTs.o
+
+# target to build an object file
+Routing/Tsp/GaTs/GaTs.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/GaTs/GaTs.cpp.o
+.PHONY : Routing/Tsp/GaTs/GaTs.cpp.o
+
+Routing/Tsp/GaTs/GaTs.i: Routing/Tsp/GaTs/GaTs.cpp.i
+
+.PHONY : Routing/Tsp/GaTs/GaTs.i
+
+# target to preprocess a source file
+Routing/Tsp/GaTs/GaTs.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/GaTs/GaTs.cpp.i
+.PHONY : Routing/Tsp/GaTs/GaTs.cpp.i
+
+Routing/Tsp/GaTs/GaTs.s: Routing/Tsp/GaTs/GaTs.cpp.s
+
+.PHONY : Routing/Tsp/GaTs/GaTs.s
+
+# target to generate assembly for a file
+Routing/Tsp/GaTs/GaTs.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/GaTs/GaTs.cpp.s
+.PHONY : Routing/Tsp/GaTs/GaTs.cpp.s
+
+Routing/Tsp/Solution/Solution.o: Routing/Tsp/Solution/Solution.cpp.o
+
+.PHONY : Routing/Tsp/Solution/Solution.o
+
+# target to build an object file
+Routing/Tsp/Solution/Solution.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Solution/Solution.cpp.o
+.PHONY : Routing/Tsp/Solution/Solution.cpp.o
+
+Routing/Tsp/Solution/Solution.i: Routing/Tsp/Solution/Solution.cpp.i
+
+.PHONY : Routing/Tsp/Solution/Solution.i
+
+# target to preprocess a source file
+Routing/Tsp/Solution/Solution.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Solution/Solution.cpp.i
+.PHONY : Routing/Tsp/Solution/Solution.cpp.i
+
+Routing/Tsp/Solution/Solution.s: Routing/Tsp/Solution/Solution.cpp.s
+
+.PHONY : Routing/Tsp/Solution/Solution.s
+
+# target to generate assembly for a file
+Routing/Tsp/Solution/Solution.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Solution/Solution.cpp.s
+.PHONY : Routing/Tsp/Solution/Solution.cpp.s
+
+Routing/Tsp/Tests/GaTest.o: Routing/Tsp/Tests/GaTest.cpp.o
+
+.PHONY : Routing/Tsp/Tests/GaTest.o
+
+# target to build an object file
+Routing/Tsp/Tests/GaTest.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTest.cpp.o
+.PHONY : Routing/Tsp/Tests/GaTest.cpp.o
+
+Routing/Tsp/Tests/GaTest.i: Routing/Tsp/Tests/GaTest.cpp.i
+
+.PHONY : Routing/Tsp/Tests/GaTest.i
+
+# target to preprocess a source file
+Routing/Tsp/Tests/GaTest.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTest.cpp.i
+.PHONY : Routing/Tsp/Tests/GaTest.cpp.i
+
+Routing/Tsp/Tests/GaTest.s: Routing/Tsp/Tests/GaTest.cpp.s
+
+.PHONY : Routing/Tsp/Tests/GaTest.s
+
+# target to generate assembly for a file
+Routing/Tsp/Tests/GaTest.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTest.cpp.s
+.PHONY : Routing/Tsp/Tests/GaTest.cpp.s
+
+Routing/Tsp/Tests/GaTsTest.o: Routing/Tsp/Tests/GaTsTest.cpp.o
+
+.PHONY : Routing/Tsp/Tests/GaTsTest.o
+
+# target to build an object file
+Routing/Tsp/Tests/GaTsTest.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTsTest.cpp.o
+.PHONY : Routing/Tsp/Tests/GaTsTest.cpp.o
+
+Routing/Tsp/Tests/GaTsTest.i: Routing/Tsp/Tests/GaTsTest.cpp.i
+
+.PHONY : Routing/Tsp/Tests/GaTsTest.i
+
+# target to preprocess a source file
+Routing/Tsp/Tests/GaTsTest.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTsTest.cpp.i
+.PHONY : Routing/Tsp/Tests/GaTsTest.cpp.i
+
+Routing/Tsp/Tests/GaTsTest.s: Routing/Tsp/Tests/GaTsTest.cpp.s
+
+.PHONY : Routing/Tsp/Tests/GaTsTest.s
+
+# target to generate assembly for a file
+Routing/Tsp/Tests/GaTsTest.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/GaTsTest.cpp.s
+.PHONY : Routing/Tsp/Tests/GaTsTest.cpp.s
+
+Routing/Tsp/Tests/TsTest.o: Routing/Tsp/Tests/TsTest.cpp.o
+
+.PHONY : Routing/Tsp/Tests/TsTest.o
+
+# target to build an object file
+Routing/Tsp/Tests/TsTest.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/TsTest.cpp.o
+.PHONY : Routing/Tsp/Tests/TsTest.cpp.o
+
+Routing/Tsp/Tests/TsTest.i: Routing/Tsp/Tests/TsTest.cpp.i
+
+.PHONY : Routing/Tsp/Tests/TsTest.i
+
+# target to preprocess a source file
+Routing/Tsp/Tests/TsTest.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/TsTest.cpp.i
+.PHONY : Routing/Tsp/Tests/TsTest.cpp.i
+
+Routing/Tsp/Tests/TsTest.s: Routing/Tsp/Tests/TsTest.cpp.s
+
+.PHONY : Routing/Tsp/Tests/TsTest.s
+
+# target to generate assembly for a file
+Routing/Tsp/Tests/TsTest.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tests/TsTest.cpp.s
+.PHONY : Routing/Tsp/Tests/TsTest.cpp.s
+
+Routing/Tsp/Ts/Ts.o: Routing/Tsp/Ts/Ts.cpp.o
+
+.PHONY : Routing/Tsp/Ts/Ts.o
+
+# target to build an object file
+Routing/Tsp/Ts/Ts.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ts/Ts.cpp.o
+.PHONY : Routing/Tsp/Ts/Ts.cpp.o
+
+Routing/Tsp/Ts/Ts.i: Routing/Tsp/Ts/Ts.cpp.i
+
+.PHONY : Routing/Tsp/Ts/Ts.i
+
+# target to preprocess a source file
+Routing/Tsp/Ts/Ts.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ts/Ts.cpp.i
+.PHONY : Routing/Tsp/Ts/Ts.cpp.i
+
+Routing/Tsp/Ts/Ts.s: Routing/Tsp/Ts/Ts.cpp.s
+
+.PHONY : Routing/Tsp/Ts/Ts.s
+
+# target to generate assembly for a file
+Routing/Tsp/Ts/Ts.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Ts/Ts.cpp.s
+.PHONY : Routing/Tsp/Ts/Ts.cpp.s
+
+Routing/Tsp/Tsp.o: Routing/Tsp/Tsp.cpp.o
+
+.PHONY : Routing/Tsp/Tsp.o
+
+# target to build an object file
+Routing/Tsp/Tsp.cpp.o:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tsp.cpp.o
+.PHONY : Routing/Tsp/Tsp.cpp.o
+
+Routing/Tsp/Tsp.i: Routing/Tsp/Tsp.cpp.i
+
+.PHONY : Routing/Tsp/Tsp.i
+
+# target to preprocess a source file
+Routing/Tsp/Tsp.cpp.i:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tsp.cpp.i
+.PHONY : Routing/Tsp/Tsp.cpp.i
+
+Routing/Tsp/Tsp.s: Routing/Tsp/Tsp.cpp.s
+
+.PHONY : Routing/Tsp/Tsp.s
+
+# target to generate assembly for a file
+Routing/Tsp/Tsp.cpp.s:
+	$(MAKE) -f CMakeFiles/Metaheuristics.dir/build.make CMakeFiles/Metaheuristics.dir/Routing/Tsp/Tsp.cpp.s
+.PHONY : Routing/Tsp/Tsp.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +375,30 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Metaheuristics"
 	@echo "... edit_cache"
+	@echo "... Routing/Tsp/Ga/Ga.o"
+	@echo "... Routing/Tsp/Ga/Ga.i"
+	@echo "... Routing/Tsp/Ga/Ga.s"
+	@echo "... Routing/Tsp/GaTs/GaTs.o"
+	@echo "... Routing/Tsp/GaTs/GaTs.i"
+	@echo "... Routing/Tsp/GaTs/GaTs.s"
+	@echo "... Routing/Tsp/Solution/Solution.o"
+	@echo "... Routing/Tsp/Solution/Solution.i"
+	@echo "... Routing/Tsp/Solution/Solution.s"
+	@echo "... Routing/Tsp/Tests/GaTest.o"
+	@echo "... Routing/Tsp/Tests/GaTest.i"
+	@echo "... Routing/Tsp/Tests/GaTest.s"
+	@echo "... Routing/Tsp/Tests/GaTsTest.o"
+	@echo "... Routing/Tsp/Tests/GaTsTest.i"
+	@echo "... Routing/Tsp/Tests/GaTsTest.s"
+	@echo "... Routing/Tsp/Tests/TsTest.o"
+	@echo "... Routing/Tsp/Tests/TsTest.i"
+	@echo "... Routing/Tsp/Tests/TsTest.s"
+	@echo "... Routing/Tsp/Ts/Ts.o"
+	@echo "... Routing/Tsp/Ts/Ts.i"
+	@echo "... Routing/Tsp/Ts/Ts.s"
+	@echo "... Routing/Tsp/Tsp.o"
+	@echo "... Routing/Tsp/Tsp.i"
+	@echo "... Routing/Tsp/Tsp.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
