@@ -37,7 +37,6 @@ Solution Ts::run(){
                 }
                 cur_sol = x.first;
                 break;
-
             }
         }
 
